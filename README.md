@@ -19,7 +19,6 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
 ![Project Walkthrough](assets/Sea_Monster_Crowdfunding.gif)
 
 
