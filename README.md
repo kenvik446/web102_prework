@@ -19,7 +19,8 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-![Project Walkthrough](./assets/Sea_Monster_Crowdfunding.gif)
+
+![Project Walkthrough](assets/Sea_Monster_Crowdfunding.gif)
 
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
